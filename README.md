@@ -9,3 +9,7 @@ I am following the course from LinkedIn Learning to help me understand
 Here is the repo: https://github.com/LinkedInLearning/essential-jenkins-2468076.git
 
 ----
+
+## About this project
+
+I am connecting this GitHub repo with my publicly available Jenkins Server hosted in Microsoft Azure
